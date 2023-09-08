@@ -20,7 +20,7 @@ An AR app I created in Unity using ARfoundation that allows users to preview how
 <img src="https://imgpile.com/images/CS258F.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 <br />
 <br />
- <img src="https://imgpile.com/images/CS2wCw.jpg" height="40%" width="40%" alt="AR Furniture App"/>
+<img src="https://imgpile.com/images/CS2wCw.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 </p>
 
 <!--
