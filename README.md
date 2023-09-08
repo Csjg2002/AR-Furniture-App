@@ -1,7 +1,7 @@
 <h1>AR Furniture App</h1>
 
 <h2>Description</h2>
-An AR app I created in Unity that allows users to preview how furniture would look in their home before they buy it.
+An AR app I created in Unity using ARfoundation that allows users to preview how furniture would look in their home before they buy it.
 
 <br />
 
