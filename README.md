@@ -5,7 +5,7 @@ An AR app I created in Unity using ARfoundation that allows users to preview how
 
 <br />
 
-<h2>In-game Screenshots:</h2>
+<h2>AR Screenshots:</h2>
 
 <p align="center">
 <img src="https://imgpile.com/images/CS2Nel.jpg" height="40%" width="40%" alt="AR Furniture App"/>
@@ -17,12 +17,15 @@ An AR app I created in Unity using ARfoundation that allows users to preview how
 <img src="https://imgpile.com/images/CS2R6i.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 <br />
 <br />
-<img src="https://imgpile.com/images/CS258F.jpg" height="40%" width="40%" alt="AR Furniture App"/>
-<br />
-<br />
-<img src="https://imgpile.com/images/CS2wCw.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 </p>
 
+<h2>Placement Indicator:</h2>
+<img src="https://imgpile.com/images/CS258F.jpg" height="40%" width="40%" alt="AR Furniture App"/>
+</p>
+
+<h2>Quit Prompt:</h2>
+<img src="https://imgpile.com/images/CS2wCw.jpg" height="40%" width="40%" alt="AR Furniture App"/>
+</p>
 <!--
  ```diff
 - text in red
