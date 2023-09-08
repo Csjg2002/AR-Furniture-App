@@ -8,19 +8,19 @@ An AR app I created in Unity using ARfoundation that allows users to preview how
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
-<img src="https://imgpile.com/images/CS2Nel.jpg" height="50%" width="50%" alt="AR Furniture App"/>
+<img src="https://imgpile.com/images/CS2Nel.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 <br />
 <br />
-<img src="https://imgpile.com/images/CS2723.jpg" height="50%" width="50%" alt="AR Furniture App"/>
+<img src="https://imgpile.com/images/CS2723.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 <br />
 <br />
-<img src="https://imgpile.com/images/CS2R6i.jpg" height="50%" width="50%" alt="AR Furniture App"/>
+<img src="https://imgpile.com/images/CS2R6i.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 <br />
 <br />
-<img src="https://imgpile.com/images/CS258F.jpg" height="80%" width="80%" alt="AR Furniture App"/>
+<img src="https://imgpile.com/images/CS258F.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 <br />
 <br />
- <img src="https://imgpile.com/images/CS2wCw.jpg" height="80%" width="80%" alt="AR Furniture App"/>
+ <img src="https://imgpile.com/images/CS2wCw.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 </p>
 
 <!--
