@@ -14,12 +14,13 @@ An AR app I created in Unity using ARfoundation that allows users to preview how
 <img src="https://imgpile.com/images/CS2723.jpg" height="80%" width="80%" alt="AR Furniture App"/>
 <br />
 <br />
-<img src="https://imgpile.com/images/9BWMzi.png" height="80%" width="80%" alt="AR Furniture App"/>
+<img src="https://imgpile.com/images/CS2R6i.jpg" height="80%" width="80%" alt="AR Furniture App"/>
 <br />
 <br />
-<img src="https://imgpile.com/images/9BWJ3u.png" height="80%" width="80%" alt="AR Furniture App"/>
+<img src="https://imgpile.com/images/CS258F.jpg" height="80%" width="80%" alt="AR Furniture App"/>
 <br />
 <br />
+ <img src="https://imgpile.com/images/CS2wCw.jpg" height="80%" width="80%" alt="AR Furniture App"/>
 </p>
 
 <!--
