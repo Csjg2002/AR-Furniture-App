@@ -20,10 +20,12 @@ An AR app I created in Unity using ARfoundation that allows users to preview how
 </p>
 
 <h2>Placement Indicator:</h2>
+<p align="center">
 <img src="https://imgpile.com/images/CS258F.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 </p>
 
 <h2>Quit Prompt:</h2>
+<p align="center">
 <img src="https://imgpile.com/images/CS2wCw.jpg" height="40%" width="40%" alt="AR Furniture App"/>
 </p>
 <!--
