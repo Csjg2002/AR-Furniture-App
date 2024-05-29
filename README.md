@@ -1,6 +1,7 @@
 <h1>Osbornes Furniture AR App</h1>
 
 <h2>Description</h2>
+<p>
 An AR app I created in Unity using ARfoundation that allows users to preview how furniture would look in their home before they buy it. Users can preview many different types of furniture and change the material / colour of any item, as well as manipulate an item by rotating, scaling or moving it. The app also contains light estimation.
 
 <br />
