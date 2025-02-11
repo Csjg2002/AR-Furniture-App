@@ -2,9 +2,10 @@
 
 <h2>Description</h2>
 <p>
-This AR app, created in Unity using ARFoundation, allows users to preview how furniture will look in their home before making a purchase. It features a range of furniture types with options to change materials and colours. Users can manipulate items by rotating, scaling, or moving them. The app also includes light estimation to ensure realistic integration of furniture into any space.
-
-This project marked my introduction to the Unity XR toolkit and provided valuable experience in developing augmented reality applications.
+This AR app, developed in Unity using ARFoundation, lets users preview how furniture will look in their home before making a purchase. It features a variety of furniture types with options to customise materials and colours. Users can rotate, scale, or move items to fit their space, and the app includes light estimation for realistic integration into any environment.
+</p>
+<p>
+This project marked my first experience developing for mobile platforms and introduced me to the Unity XR toolkit, providing valuable hands-on experience in augmented reality application development.
 <br />
 
 <h2>AR Screenshots:</h2>
